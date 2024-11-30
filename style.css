@@ -1,0 +1,21 @@
+body{
+    background: purple
+}
+#gameBox{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0px 0px 50px greenyellow;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.python {
+    margin: 0 auto;
+    width: 200px;
+    text-transform: uppercase;
+    margin-top: 50px;
+    border: 1px solid blue;
+    padding: 10px;
+    
+}
